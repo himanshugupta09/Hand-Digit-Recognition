@@ -1,0 +1,14 @@
+# Here are the list of required libraries for running this model
+
+
+1.  ! pip install numpy
+2.  ! pip install pandas
+3.  ! pip install tensorflow
+4.  ! pip install tensorflow-keras
+5.  ! pip install seaborn
+6.  ! pip install matplotlib
+
+
+
+Note: Before Runnning this make sure if you are using ColabNotebook to be connected to 
+      internet.
